@@ -1,0 +1,1 @@
+echo "$(date) Look at this super awesome script!"
