@@ -1,0 +1,1 @@
+Trigger using: `git commit --allow-empty -m "bump" && git push`
